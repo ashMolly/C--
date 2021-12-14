@@ -1,4 +1,4 @@
-// 2.5 - rct.vasilevs@bsu.by
+// 2.5
 
 #include <iostream>
 #include <string.h>
